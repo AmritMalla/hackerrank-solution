@@ -1,4 +1,5 @@
-// Complete the queensAttack function below.
+// You can read the description here https://link.medium.com/CuIsQKakU5
+
 int queensAttack(int n, int k, int r_q, int c_q, vector<vector<int>> obstacles) {
     int dist[8];
 
